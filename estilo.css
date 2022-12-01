@@ -1,0 +1,13 @@
+.relogio {
+    width: 1000px;
+    height:400px;
+    background:darkblue;
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#hora{
+    font-size: 120px;
+}
